@@ -1,0 +1,18 @@
+{
+  "versao": 1,
+  "anuncio": "App de Manhwa v1.0 lançado! 🔥",
+  "sites": [
+    {"nome": "Asura Scans",       "url": "https://asurascans.com"},
+    {"nome": "Flame Scans",       "url": "https://flamescans.org"},
+    {"nome": "Reaper Scans",      "url": "https://reaperscans.com"},
+    {"nome": "Luminous Scans",    "url": "https://luminousscans.com"},
+    {"nome": "Manhwa Clan",       "url": "https://manhwaclan.com"},
+    {"nome": "Toonily",           "url": "https://toonily.com"},
+    {"nome": "ManhwaFreak",       "url": "https://manhwafreak.com"}
+  ],
+  "config": {
+    "cor_primaria": "#028AF6",
+    "cor_fundo": "#FF121212",
+    "mostrar_anuncio": true
+  }
+}
